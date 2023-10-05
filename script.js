@@ -1,0 +1,1 @@
+console.log('the line in script.js');
